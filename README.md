@@ -7,5 +7,5 @@ Prabhpreet:
 
 Rupsha:
 - Label dataset
-- Implement the algorithm basedonn research 
+- Implement the algorithm based on above research 
 - Implement embeddings based on what was learnt from Prabhpreet's analysis
