@@ -1,1 +1,1 @@
-MeL-ODE: Meta Learning model for highly accurate numerical approximations for Odinary Differential Equations
+MeL-ODE: Meta Learning model for highly accurate and speedy numerical approximations of Odinary Differential Equations.
